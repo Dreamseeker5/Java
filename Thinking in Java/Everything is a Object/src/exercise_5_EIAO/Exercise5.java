@@ -10,5 +10,4 @@ public class Exercise5
 		testObject.i = 5;
 		System.out.print(testObject.b + ", " + testObject.d + ", " + testObject.i);
 	}
-
 }
