@@ -8,7 +8,6 @@ public class Exercise11
 		System.out.print(rainbow.anIntegerRepresentingColors + "\n");
 		rainbow.changeTheHueOfTheColor(10);
 		System.out.print(rainbow.anIntegerRepresentingColors + "\n");
-
 	}
 
 }
