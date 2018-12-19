@@ -14,7 +14,6 @@ public class Exercise5
 		System.out.println(spot == cruffy);
 		System.out.println(spot.equals(cruffy));
 		System.out.println(spot.equals(firulai));
-		System.out.println(spot == firulai);
 
 	}
 }
